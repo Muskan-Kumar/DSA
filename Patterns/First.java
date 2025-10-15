@@ -139,6 +139,12 @@ public class First{
         
     }
 
+    //     1   
+    //    212  
+    //   32123 
+    //  4321234
+    // 543212345
+
     static void pattern8(int num){
         for(int i=1; i<=num; i++){
             for(int j=1; j<=num-i; j++){
