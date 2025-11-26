@@ -14,13 +14,13 @@ public class SingleLinkedList{
         list.display();
         System.out.println("Size = " + list.size);
 
-        // System.out.println(list.deleteFirst());
-        // list.display();
-        // System.out.println("Size = " + list.size);
+        System.out.println(list.deleteFirst());
+        list.display();
+        System.out.println("Size = " + list.size);
 
-        // System.out.println(list.deleteLast());
-        // list.display();
-        // System.out.println("Size = " + list.size);
+        System.out.println(list.deleteLast());
+        list.display();
+        System.out.println("Size = " + list.size);
 
         System.out.println(list.delete(3));
         list.display();
